@@ -1,0 +1,2 @@
+# opentelekomcloudj
+Terraform OpenTelekomCloud provider
